@@ -1,0 +1,22 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "antique clock",
+            "description": "very old one",
+            "image": "https://images.pexels.com/photos/859895/pexels-photo-859895.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "id": 2,
+            "name": "antique clock",
+            "description": "very old one",
+            "image": "https://images.pexels.com/photos/859895/pexels-photo-859895.jpeg?auto=compress&cs=tinysrgb&w=600"
+        },
+        {
+            "id": 3,
+            "name": "antique clock",
+            "description": "very old one",
+            "image": "https://images.pexels.com/photos/859895/pexels-photo-859895.jpeg?auto=compress&cs=tinysrgb&w=600"
+        }
+    ]
+}
